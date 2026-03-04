@@ -133,7 +133,8 @@ body {
 
 .view-controls-inner {
   width: 100%;
-  margin: 0;
+  max-width: 1080px;
+  margin: 0 auto;
   padding: 0.7rem clamp(0.8rem, 3vw, 1.2rem);
   position: relative;
 }
@@ -571,6 +572,8 @@ select:focus {
 
   .view-controls-inner {
     width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
     padding: 0.55rem clamp(0.8rem, 3vw, 1.1rem);
   }
 
