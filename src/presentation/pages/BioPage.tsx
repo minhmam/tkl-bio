@@ -47,7 +47,7 @@ export function BioPage() {
       <section className="page-wrap">
         <Header
           title=""
-          subtitle="Trang trưng bày của Phùng Hoài Thương"
+          subtitle="Trang trưng bày của Trần Khánh Linh"
           actionLabel="Vào trang admin"
           actionPath="/admin"
         />
